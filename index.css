@@ -1,0 +1,25 @@
+body {
+    background-image: url('/Images/img0.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.intro {
+    text-align: center;
+
+}
+
+.intro h1 {
+    color: #f5f5ff;
+}
+
+.intro h2 {
+    color: #f5f5ff;
+}
+
+.thinker {
+    padding-top: 305px;
+    padding-right: 740px;
+    text-align: center;
+}

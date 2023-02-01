@@ -1,0 +1,23 @@
+body {
+    background-image: url('/Images/img1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+
+.book-page {
+    width: 580px;
+    height: 800px;
+    background-color: #F5F5DC;
+    margin: 50px auto;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+  }
+  .book-text {
+    font-family: italic;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+  }
